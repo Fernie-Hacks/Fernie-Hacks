@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Fernando Gonzalez I'm a Software Engineer for AT&T where I do Set-Top Box development along with micro-services to provide data to the STB.   
+
+- 🔭 I’m currently working on improving my front-end skills and playing around with frameworks to create apps in different platforms with a single codebase. 
+- 👯 I’m looking to collaborate with someone to create a streaming channel to develop things live. 
+- 📫 How to reach me: fgonz009@ucr.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Huge Soccer and Basketball fan
+
 
 <!--
 **Fernie-Hacks/Fernie-Hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
