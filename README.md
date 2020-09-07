@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fernando Gonzalez I'm a Software Engineer for AT&T where I do Set-Top Box development along with micro-services to provide data to the STB.   
+My name is Fernando Gonzalez I'm a Software Engineer for AT&T where I do Set-Top Box development along with micro-services to provide data to the STB. It seems that everyone is too lazy to call me by my first name, including my parents. Most people use Fernie when trying to take my attention, feel free to do the same. I do it myself when chatting in the third person with my subconscious 🙃  
 
 - 🔭 I’m currently working on improving my front-end skills and playing around with frameworks to create apps in different platforms with a single codebase. 
 - 👯 I’m looking to collaborate with someone to create a streaming channel to develop things live. 
